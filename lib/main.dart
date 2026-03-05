@@ -20,7 +20,7 @@ class PortfolioApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: '${AppStrings.name} • Portfolio',
-      theme: AppTheme.light(),
+      theme: AppTheme.darkNeon(),
       debugShowCheckedModeBanner: false,
       home: const PortfolioHomePage(),
     );
