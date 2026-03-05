@@ -43,7 +43,7 @@ class _ProjectsSectionState extends State<ProjectsSection> {
       "description":
           "Personal portfolio built with Flutter Web showcasing projects, skills, and experience.",
       "tech": "Flutter Web, Responsive Design",
-      "link": "https://github.com/rashimeena/portfolio",
+      "link": "",
     },
   ];
 
